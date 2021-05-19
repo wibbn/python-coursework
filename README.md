@@ -1,4 +1,4 @@
-# Predictive maintenance
+# Python coursework
 Breakdown analisys based on sensors data
 
 ## Data
