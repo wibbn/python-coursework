@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+
+lightning_logs
+lstm_logs
+catboost_info
+
+model_checkpoints
+
+data
